@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Blackboard Collaborate Playback URL Extractor
-// @namespace https://eu-lti.bbcollab.com/collab/ui/session/playback
-// @match *://*/*
+// @namespace yiannis
+// @match https://eu-lti.bbcollab.com/collab/ui/session/playback
 // @grant none
 // @author Yiannis Charalambous
 // ==/UserScript==
