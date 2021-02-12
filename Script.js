@@ -7,6 +7,7 @@
 // ==/UserScript==
 
 // Licence: GPL V3
+// GitHub Link: https://github.com/Yiannis128/bc-pamp4/tree/master
 
 var link = "";
 
